@@ -22,7 +22,7 @@ body {
 }
 
 .avatar {
-  width: 80px;
+  width: 10rem;
   border-radius: 50%;
   margin-bottom: 20px;
 }
@@ -60,4 +60,4 @@ h1 {
 .links a:hover {
   background: #c4f82a;
   color: black;
-}
+} 
